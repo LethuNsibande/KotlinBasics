@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Adapter</string>
+    <string-array name="presidents_array">
+        <item>Nelson Mandela</item>
+        <item>Thabo Mbeki</item>
+        <item>Kgalema Motlhante</item>
+        <item>Jacob Zuma</item>
+        <item>Cyril Ramaphosa</item>
+    </string-array>
 </resources>

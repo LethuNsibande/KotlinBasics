@@ -1,2 +1,6 @@
-package com.nsibandelh.sicktest2021;public class AddLanguageActivity {
+package com.nsibandelh.sicktest2021;
+
+import android.app.Activity;
+
+public class AddLanguageActivity extends Activity {
 }
